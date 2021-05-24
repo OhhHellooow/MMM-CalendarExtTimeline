@@ -24,7 +24,7 @@ Module.register("MMM-CalendarExtTimeline",{
 		time_display_section_count: 6,
 		time_display_section_format: "hh:mm a",
 		calendars: [],
-		source: "CALEXT2", // "CALEXT" or "CALEXT2"
+		source: "CALEXT2" // "CALEXT" or "CALEXT2"
 	},
 
 	start: function() {
